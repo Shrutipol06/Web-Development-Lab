@@ -1,4 +1,4 @@
-# Experiment: HTML Frames
+# Experiment 6: HTML Frames
 
 ## Aim
 
