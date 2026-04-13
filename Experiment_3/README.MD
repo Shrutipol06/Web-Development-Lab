@@ -1,4 +1,4 @@
-# Experiment: HTML Text Formatting Tags
+# Experiment 3: HTML Text Formatting Tags
 
 ## Aim
 To study and understand HTML text formatting tags used to style and display content on a web page.
