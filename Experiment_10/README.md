@@ -1,4 +1,4 @@
-# Experiment: Resume Webpage using HTML and CSS
+# Experiment 10: Resume Webpage using HTML and CSS
 
 ## Aim
 
