@@ -1,4 +1,4 @@
-# Experiment: HTML Table Tag
+# Experiment 8: HTML Table Tag
 
 ## Aim
 
