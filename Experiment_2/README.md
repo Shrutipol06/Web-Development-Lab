@@ -1,4 +1,4 @@
-# Experiment: Static Web Page using HTML
+# Experiment 2: Static Web Page using HTML
 
 ## Aim
 To create a simple static web page using basic HTML tags and display its output in a web browser.
