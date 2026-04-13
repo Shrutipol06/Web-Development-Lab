@@ -1,4 +1,4 @@
-# Experiment: HTML List Tags
+# Experiment 4: HTML List Tags
 
 ## Aim
 To study and implement HTML list tags to display information in an organized manner.
