@@ -1,4 +1,4 @@
-# Experiment: HTML Image Tag
+# Experiment 5: HTML Image Tag
 
 ## Aim
 
